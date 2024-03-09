@@ -1,7 +1,7 @@
 {
   "homepage":"https://ronaldgga.github.io/modalpopup/",
   "name": "typescript",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
